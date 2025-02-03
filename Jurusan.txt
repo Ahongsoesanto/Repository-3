@@ -1,1 +1,2 @@
-Teknik Komunikasi Jaringan 
+## jurusan
+-Teknik Komunikasi Jaringan 
